@@ -1,0 +1,15 @@
+/Users/afra/Projects/pair/pair/bin/Debug/net5.0/pair.deps.json
+/Users/afra/Projects/pair/pair/bin/Debug/net5.0/pair.runtimeconfig.json
+/Users/afra/Projects/pair/pair/bin/Debug/net5.0/pair.runtimeconfig.dev.json
+/Users/afra/Projects/pair/pair/bin/Debug/net5.0/pair.dll
+/Users/afra/Projects/pair/pair/bin/Debug/net5.0/ref/pair.dll
+/Users/afra/Projects/pair/pair/bin/Debug/net5.0/pair.pdb
+/Users/afra/Projects/pair/pair/obj/Debug/net5.0/pair.csprojAssemblyReference.cache
+/Users/afra/Projects/pair/pair/obj/Debug/net5.0/pair.GeneratedMSBuildEditorConfig.editorconfig
+/Users/afra/Projects/pair/pair/obj/Debug/net5.0/pair.AssemblyInfoInputs.cache
+/Users/afra/Projects/pair/pair/obj/Debug/net5.0/pair.AssemblyInfo.cs
+/Users/afra/Projects/pair/pair/obj/Debug/net5.0/pair.csproj.CoreCompileInputs.cache
+/Users/afra/Projects/pair/pair/obj/Debug/net5.0/pair.dll
+/Users/afra/Projects/pair/pair/obj/Debug/net5.0/ref/pair.dll
+/Users/afra/Projects/pair/pair/obj/Debug/net5.0/pair.pdb
+/Users/afra/Projects/pair/pair/obj/Debug/net5.0/pair.genruntimeconfig.cache
